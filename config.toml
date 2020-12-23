@@ -19,7 +19,7 @@ disqusShortname = "yourdiscussshortname"
     description = "Hunok website"
     keywords = "blog,developer,personal"
     info = "Full Stack DevOps and Magician"
-    avatarURL = "img/logo.png"
+    avatarURL = "images/logo.png"
     #gravatar = "john.doe@example.com"
     footerContent = "Enter a text here."
 
